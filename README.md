@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an Electronics Technician with a strong academ
 
 - **Education**:
   - Bachelor's in Systems Engineering: Universidad Nacional de General Sarmiento (2022 - Present)
-  - Secondary Technical Degree in Electronics: Instituto Cardenal Stepinac (2015 - 2021)
+  - Technical Degree in Electronics: Instituto Cardenal Stepinac (2015 - 2021)
 
 - **Additional Courses**:
   - Advanced English: Instituto Superior Cultural Británico (2021 - Present)
