@@ -74,19 +74,19 @@ I am a University Technician in Informatics and Full Stack Developer passionate 
 ## 🎓 Education | Formación
 
 - **Licenciatura en Sistemas** (En curso / Ongoing)  
-  Universidad Nacional de General Sarmiento (2022 - Presente)
+  Universidad Nacional de General Sarmiento (03/2022 - Presente)
 
 - **Full Stack Development** (En curso / Ongoing)  
-  Coderhouse (2024 - Presente)
+  Coderhouse (01/2024 - Presente)
 
 - **Tecnicatura Universitaria en Informática** (En curso / Completed)  
-  Universidad Nacional de General Sarmiento (2022 - 2025)
+  Universidad Nacional de General Sarmiento (03/2022 - 06/2025)
 
 - **Advanced English** (Finalizado / Completed)  
-  Instituto Superior Cultural Británico (2021 - 2024)
+  Instituto Superior Cultural Británico (03/2021 - 12/2024)
 
 - **Técnico Universitario en Electrónica** (Finalizado / Completed)  
-  Instituto Cardenal Stepinac (2015 - 2021)
+  Instituto Cardenal Stepinac (03/2015 - 11/2021)
 
 ---
 
@@ -114,7 +114,7 @@ I am a University Technician in Informatics and Full Stack Developer passionate 
 | 🛒 E-commerce React       | Plataforma de comercio electrónico con React y Firebase. | React, Firebase, Tailwind CSS     | [GitHub](https://github.com/JoaquinTonizzo/e-commerce-react)                                      |
 | 👥 SIGRH+                | Sistema integral de gestión de recursos humanos con backend en Flask y ML, frontend en React. | Python, Flask, Machine Learning, React | [GitHub](https://github.com/nereoM/pp1-tpfinal-404safehousenotfound)                           |
 | 🎮 Lost Galaxian          | Videojuego en Java orientado a objetos (POO).             | Java, Programación Orientada a Objetos | [GitHub](https://github.com/JoaquinTonizzo/lost-galaxian)                                     |
-| 🌐 Portfolio              | Portafolio personal, actualmente en HTML, CSS, JavaScript, en proceso de actualización con React. | HTML, CSS, JavaScript, React (en progreso) | [GitHub](https://github.com/JoaquinTonizzo/portfolio)                                         |
+| 🌐 Portfolio              | Portafolio personal desarrollado con React y desplegado en GitHub Pages. | React, CSS, GitHub Pages | [GitHub](https://github.com/JoaquinTonizzo/portfolio)                                         |
 
 ---
 
